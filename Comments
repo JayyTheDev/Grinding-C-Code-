@@ -1,19 +1,1 @@
-These are comments using C++ Code in a code block.
 
-REMINDER: The way comments are written in C++ is like the following below:
-1) Single-Line-Comment = //
-2) Multi-Line-Comment = /* */
-
-Single-Line-Comments, are used to disable a single line of code, making it stop from working or running whenever the program is executed.
-Multi-Line-Comments, are used to disable an entire block of code or just the entire script of code in general from running.
-
-/*
-
-#include <iostream>
-using namespace std;
-
-int main() {
-  cout << "I will Comment this out"; // This is now DISABLED.
-}
-
-*/ // The entire code block is now DISABLED. (will not run whatsoever)
